@@ -113,3 +113,8 @@
 {"id":"nga-61242","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
 {"id":"getty-7e3b5eae-a180-4e1c-8004-aa07e4581bc2","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
 {"id":"wd-Q18536951","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"polona-db5ebd1d-ee38-4f45-8bbf-fd0cffc2ac63","top":"clean","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"nga-111598","top":"leftover","bottom":"clean","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"met-54993","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"rijks-200189674","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"getty-94519cbb-d3f0-48be-8fab-65133a653be7","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
