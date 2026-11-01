@@ -242,3 +242,7 @@
 {"id":"aic-111883","top":"leftover","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
 {"id":"mia-45592333","top":"clean","bottom":"clean","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
 {"id":"rijks-200224940","top":"leftover","bottom":"leftover","left":"clean","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"tepapa-42811","top":"leftover","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"wd-Q136831237","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"wd-Q18573173","top":"clean","bottom":"leftover","left":"clean","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"wd-Q23769252","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
