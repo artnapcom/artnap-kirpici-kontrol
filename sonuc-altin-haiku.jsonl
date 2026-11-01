@@ -147,3 +147,4 @@
 {"id":"rijks-200319998","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
 {"id":"rijks-200471453","top":"leftover","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
 {"id":"met-338395","top":"leftover","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"rijks-200299183","top":"clean","bottom":"leftover","left":"clean","right":"leftover","cut_into_artwork":"yes","verdict":"overcropped"}
