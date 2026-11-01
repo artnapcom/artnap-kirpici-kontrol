@@ -75,3 +75,6 @@
 {"id":"rijks-200282434","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
 {"id":"rijks-200295943","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
 {"id":"rijks-200305578","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"met-335628","top":"clean","bottom":"leftover","left":"leftover","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"cmaf-66285324","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"polona-c9b79246-acbd-40e8-9776-a9c09b2ae654","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
