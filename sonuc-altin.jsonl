@@ -186,3 +186,11 @@
 {"id":"pm-153518","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
 {"id":"aic-83325","top":"leftover","bottom":"clean","left":"clean","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
 {"id":"pm-223195","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"si-fsg_F1917.103","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"rijks-200312052","top":"clean","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"si-fsg_F1904.50a-b","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"wd-Q20891050","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"wd-Q22085153","top":"clean","bottom":"leftover","left":"leftover","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"met-338216","top":"leftover","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"si-fsg_F1902.275","top":"leftover","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"wd-Q115583106","top":"clean","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
