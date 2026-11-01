@@ -258,3 +258,13 @@
 {"id":"cmaf-147438796","top":"clean","bottom":"clean","left":"leftover","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
 {"id":"prado-Q59556295","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
 {"id":"wienm-514306","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"rijks-200330553","top":"leftover","bottom":"clean","left":"clean","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"aic-127864","top":"leftover","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"cmaf-60856732","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"rijks-200390499","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"met-436012","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"lacma-88825","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"met-339342","top":"leftover","bottom":"clean","left":"leftover","right":"leftover","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"met-333991","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"met-392148","top":"leftover","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"cmsab-67834504","top":"clean","bottom":"leftover","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
