@@ -253,3 +253,8 @@
 {"id":"cmaf-66273734","top":"clean","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"yes","verdict":"overcropped"}
 {"id":"wd-Q28810536","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
 {"id":"cma-135773","top":"leftover","bottom":"leftover","left":"leftover","right":"clean","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"cmaf-147738187","top":"clean","bottom":"clean","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"yuag-79729","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"cmaf-147438796","top":"clean","bottom":"clean","left":"leftover","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"prado-Q59556295","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
+{"id":"wienm-514306","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"yes","verdict":"overcropped"}
