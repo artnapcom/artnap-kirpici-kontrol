@@ -146,3 +146,11 @@
 {"id":"nga-61242","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
 {"id":"getty-7e3b5eae-a180-4e1c-8004-aa07e4581bc2","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
 {"id":"wd-Q18536951","top":"leftover","bottom":"leftover","left":"leftover","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"wd-Q104596181","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"aic-115158","top":"clean","bottom":"clean","left":"clean","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"stadel-95534484","top":"clean","bottom":"clean","left":"clean","right":"leftover","cut_into_artwork":"no","verdict":"undercropped"}
+{"id":"met-10438","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"nga-57077","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"rijks-200370350","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"saam-Q20514397","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"no","verdict":"good"}
+{"id":"rijks-200471453","top":"clean","bottom":"clean","left":"clean","right":"clean","cut_into_artwork":"yes","verdict":"overcropped"}
